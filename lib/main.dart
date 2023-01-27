@@ -24,8 +24,8 @@ class MyHomePage extends StatelessWidget {
     ),
     Transction(
       id: 't1',
-      title: 'New Shoes ',
-      amount: 69.99,
+      title: 'weekly groceries ',
+      amount: 1.99,
       date: DateTime.now(),
     ),
   ];
